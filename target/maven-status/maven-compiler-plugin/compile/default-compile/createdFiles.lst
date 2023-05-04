@@ -1,0 +1,7 @@
+com\monlau\m3\interfacespolimorfismo\Interfaces\EsLiquido.class
+Test\Main.class
+com\monlau\m3\interfacespolimorfismo\clases\Vino.class
+com\monlau\m3\interfacespolimorfismo\clases\Cereales.class
+com\monlau\m3\interfacespolimorfismo\Interfaces\ConDescuento.class
+com\monlau\m3\interfacespolimorfismo\clases\Detargente.class
+com\monlau\m3\interfacespolimorfismo\Interfaces\EsAlimento.class
